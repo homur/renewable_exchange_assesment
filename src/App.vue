@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import MainView from "@/views/MainView.vue";
+import MainView from "@/views/MainView.vue"
 
 export default {
-  components: {
-    MainView
-  }
-};
+	components: {
+		MainView
+	}
+}
 </script>
 
 <style>
